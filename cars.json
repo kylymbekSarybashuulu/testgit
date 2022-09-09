@@ -1,0 +1,22 @@
+[
+  {
+    "name": "X6",
+    "price": 5000,
+    "model": "BMW"
+  },
+  {
+    "name": "A6",
+    "price": 3000,
+    "model": "AUDI"
+  },
+  {
+    "name": "CAMRY",
+    "price": 4000,
+    "model": "TOYOTA"
+  },
+  {
+    "name": "X1",
+    "price": 5000,
+    "model": "TESLA"
+  }
+]
